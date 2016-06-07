@@ -2,6 +2,7 @@ Results:.tex
 figures/image3/image3.png
 figures/interactive-figure-1465319960418/figure.html
 figures/image/image.png
+figures/image4/image4.png
 References__.tex
 figures/interactive-figure-1457689581068/figure.html
 figures/image1/image1.png
