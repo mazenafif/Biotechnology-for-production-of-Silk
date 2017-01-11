@@ -1,5 +1,6 @@
 Results:.tex
 figures/image3/image3.png
+figures/interactive-figure-1484155308080/figure.html
 figures/interactive-figure-1465319960418/figure.html
 figures/image/image.png
 figures/image4/image4.png
